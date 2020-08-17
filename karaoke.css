@@ -1,10 +1,15 @@
 #karaoke .kara-text,
 #karaoke .kara-text-highlight {
-
+    display: inline-block;
     font-size: 50px;
     white-space: nowrap;
-    text-align: center;
+}
 
+#karaoke .kara-text {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 100%);
 }
 
 #karaoke .kara-text-highlight {
@@ -17,8 +22,6 @@
 }
 
 .aud-control {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 40vh;
+    text-align: center;
+    margin-top: 50vh;
 }
