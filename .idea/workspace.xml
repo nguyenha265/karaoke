@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3084d955-1ac8-4a46-beb5-f87cdc20ca91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gDOo2rTWV8dCIpxazENi6maham" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3084d955-1ac8-4a46-beb5-f87cdc20ca91" name="Default Changelist" comment="" />
+      <created>1597645868552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597645868552</updated>
+      <workItem from="1597645869603" duration="1069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="341" width="467" height="430" key="#Web_Browsers" timestamp="1597646302618">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="721" y="341" width="467" height="430" key="#Web_Browsers/0.34.1920.1046@0.34.1920.1046" timestamp="1597646302618" />
+    <state x="548" y="359" width="814" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597646166524">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="548" y="359" width="814" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1597646166524" />
+    <state x="737" y="314" width="424" height="482" key="FileChooserDialogImpl" timestamp="1597646288391">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="737" y="314" width="424" height="482" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1597646288391" />
+  </component>
+</project>
